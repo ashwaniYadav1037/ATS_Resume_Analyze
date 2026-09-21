@@ -22,23 +22,15 @@ def get_groq_response(input, pdf_content, prompt):
     final_prompt = f"""
 You are an expert ATS Resume Analyzer.
 
-==============================
 JOB DESCRIPTION
-==============================
 
 {input}
 
-
-==============================
 RESUME
-==============================
 
 {pdf_content}
 
-
-==============================
 INSTRUCTION
-==============================
 
 {prompt}
 
