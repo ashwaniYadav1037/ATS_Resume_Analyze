@@ -2,6 +2,8 @@
 
 An AI-powered resume analyzer that compares a candidate's resume with a job description and provides insights into **ATS compatibility, matching skills, missing skills, keywords, and areas for improvement**.
 
+🚀 **[Live Demo] https://resumanalyzer.streamlit.app/**
+
 ## 🚀 Features
 
 * 📄 Upload resume in PDF format
